@@ -41,11 +41,6 @@ This repository contains code for predicting and forecasting the close price of 
 7. **Results**:
     - Future predictions are inverse transformed and printed along with corresponding dates.
 
-### Files
-
-- `AMZN.csv`: Historical stock prices of Amazon (AMZN) from 2010 to 2018.
-- `AMZN.IpyNB`: Main script containing data preparation, model creation, training, evaluation, and forecasting logic.
-
 ### Requirements
 
 - Python 3.7+
